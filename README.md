@@ -1,12 +1,12 @@
 
-#Environment 
+**Environment** 
  python3.8.8  
  pytorch 1.9.0  
  gensim 4.0.1  
  scikit-learn1.0.2  
  
  
-#Execution
+**Execution**
 
 *1 Setting current path*  
 
@@ -30,7 +30,7 @@
 >sh w2vconst.sh  
  word2vec_acvp.py  
  
-**NOTE  
+**NOTE**  
  Use epochs=20  for prediction of AVPs  
  Use epochs=4   for prediction of ACVPs  
  
