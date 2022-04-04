@@ -1,12 +1,14 @@
+# iACVP
+This package is used for prediction of anti-coronavirus peptides (ACVPs).
 
 # Environment
- >python3.8.8  
+ >anaconda 4.11.0  
+ >python 3.8.8  
  >pytorch 1.9.0  
- >gensim 4.0.1  
- >scikit-learn1.0.2  
- 
+ >scikit-learn 1.0.2  
+ >gensim 4.0.1
+  
 # Execution
-
 # 1 Setting current path  
  Users need to change the program_path according to their system in the following programs.  
  In our case, we set program_path=/home/kurata/myproject/py3/ACVP_predictor.  
