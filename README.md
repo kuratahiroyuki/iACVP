@@ -9,15 +9,8 @@ This package is used for prediction of anti-coronavirus peptides (ACVPs).
  >gensim 4.0.1
   
 # Execution
-# 1 Setting current path  
- Users need to change the program_path according to their system in the following programs.  
- In our case, we set program_path=/home/kurata/myproject/py3/ACVP_predictor.  
- >dataconst.sh    
- >w2vconst.sh     
- >main.sh   
- >shbmain.sh   
- >analysis_net.py   
- >analysis_ml.py   
+# 1 Setting iACVP directory  
+ The directory structure given in the github should be conserved. 
  
 # 2 Construction of training and test datasets  
 ./  
